@@ -4,7 +4,7 @@ How we can distigush country Jordan vs Nike Joran or person Jordan.
 Pretraining models are from : https://github.com/stanfordnlp/GloVe
 NLP Reference : http://nlp.stanford.edu/software/CRF-NER.shtml
 
-You can get glove_final.txt from Pretraining models are from : https://github.com/stanfordnlp/GloVe
+You can get glove_final.txt from Pretraining models are from : https://drive.google.com/open?id=0B-zTqtKyBIISb094S0JDWURjWTg
 
 
 # How it works:
